@@ -172,3 +172,13 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# ZIP files (too big for GitHub)
+*.zip
+
+# .json files (too big for GitHub)
+*.json
+
+# .pkl files (too big for GitHub)
+*.pkl
+*.pklz
