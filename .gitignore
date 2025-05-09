@@ -173,6 +173,8 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# Big files
+
 # ZIP files (too big for GitHub)
 *.zip
 
@@ -182,3 +184,7 @@ cython_debug/
 # .pkl files (too big for GitHub)
 *.pkl
 *.pklz
+
+# .db and .sqlite files
+*.db
+*.sqlite
